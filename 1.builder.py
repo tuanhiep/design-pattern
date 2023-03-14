@@ -1,6 +1,5 @@
 from unittest import TestCase
 
-
 class Field:
     def __init__(self, name, value):
         self.value = value
